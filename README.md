@@ -4,13 +4,13 @@ A custom Codex v2 animated pet inspired by a playful orange Chinese animated cal
 
 ## Preview
 
-![Niulai contact sheet](contact-sheet-extended.png)
+<img src="./contact-sheet-extended.png?raw=true" alt="Niulai contact sheet" width="640">
 
 ## Actions
 
 | Action | Idle | Waving | Running | Waiting | Review |
 | --- | --- | --- | --- | --- | --- |
-| Preview | ![Idle](previews/idle.gif) | ![Waving](previews/waving.gif) | ![Running](previews/running.gif) | ![Waiting](previews/waiting.gif) | ![Review](previews/review.gif) |
+| Preview | <img src="./previews/idle.gif?raw=true" alt="Idle" width="96"> | <img src="./previews/waving.gif?raw=true" alt="Waving" width="96"> | <img src="./previews/running.gif?raw=true" alt="Running" width="96"> | <img src="./previews/waiting.gif?raw=true" alt="Waiting" width="96"> | <img src="./previews/review.gif?raw=true" alt="Review" width="96"> |
 
 ## Files
 
@@ -30,4 +30,3 @@ cp pet.json spritesheet.webp ~/.codex/pets/niulai/
 ```
 
 The manifest uses `spriteVersionNumber: 2`.
-
